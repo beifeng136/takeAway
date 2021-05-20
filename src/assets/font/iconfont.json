@@ -1,0 +1,198 @@
+{
+  "id": "2526424",
+  "name": "实训外卖项目vue3重构",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3533372",
+      "name": "积分",
+      "font_class": "jifen",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "4134661",
+      "name": "账单",
+      "font_class": "bill",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "4579025",
+      "name": "积分",
+      "font_class": "jifen1",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "4856596",
+      "name": "服务中心",
+      "font_class": "service",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "5179686",
+      "name": "账单",
+      "font_class": "fcstubiao20",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "6880590",
+      "name": "会员卡",
+      "font_class": "zhifufangshi-huiyuanqiaicon",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "7071928",
+      "name": "积分",
+      "font_class": "jifen2",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "7983450",
+      "name": "账单",
+      "font_class": "zhangdan",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "8842537",
+      "name": "会员卡",
+      "font_class": "huiyuanqia",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "10545155",
+      "name": "账单",
+      "font_class": "zhangdan1",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "10575881",
+      "name": "账单",
+      "font_class": "zhangdan2",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "11311154",
+      "name": "积分",
+      "font_class": "jifen3",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "11789754",
+      "name": "会员卡",
+      "font_class": "huiyuanqia-copy-copy",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "13405406",
+      "name": "服务中心",
+      "font_class": "fuwuzhongxin",
+      "unicode": "e6c3",
+      "unicode_decimal": 59075
+    },
+    {
+      "icon_id": "13654205",
+      "name": "会员卡",
+      "font_class": "huiyuanka",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "15062407",
+      "name": "账单",
+      "font_class": "zhangdan3",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "15369252",
+      "name": "会员卡",
+      "font_class": "huiyuanka1",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "18833449",
+      "name": "会员卡",
+      "font_class": "huiyuanka2",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "20593261",
+      "name": "账单通知",
+      "font_class": "zhangdantongzhi",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "8648200",
+      "name": "搜索",
+      "font_class": "sousuo3",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "10354021",
+      "name": "搜索--1",
+      "font_class": "search",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "13864016",
+      "name": "搜索--1",
+      "font_class": "xingtaiduICON_sousuo---copy",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "4479685",
+      "name": "搜索",
+      "font_class": "tubiao-",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "10403145",
+      "name": "搜索--1",
+      "font_class": "soushuo",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "10994618",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "12671259",
+      "name": "搜索",
+      "font_class": "sousuo1",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "19579452",
+      "name": "搜索",
+      "font_class": "sousuo2",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}
